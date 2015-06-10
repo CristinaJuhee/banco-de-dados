@@ -12,5 +12,17 @@
             <input type="radio" name="tipoCRUD" value="D"/>Delete<br/>
             <input type="submit" value="START"/>
         </form>
+        <table class = "table">
+            <tr>
+                <th>tia</th>
+                <th>nome</th>
+                <th>nota</th>
+                <th>idade</th>
+                
+                
+            </tr>
+      
+        </table>
+        
     </body>
 </html>
